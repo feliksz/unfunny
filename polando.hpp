@@ -14,7 +14,9 @@
 #define WPROWADZ std::cin
 #define ZAKONCZ_LINIE std::endl
 
+#define UZYWA using
 #define W_LINII inline
+#define DEFINICJA_TYPU typedef
 
 #define PROZNIA void
 
@@ -29,3 +31,4 @@
 #define LICZBA_CALKOWITA_BEZ_ZNAKU64 unsigned long long
 
 #define LICZBA_ZMIENNOPRZECINKOWA float
+#define LICZBA_ZMIENNOPRZECINKOWA_PODWOJNEJ_PRECYZJI double
