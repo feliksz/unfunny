@@ -12,6 +12,7 @@
 
 #define POKAZ std::cout
 #define WPROWADZ std::cin
+#define ZAKONCZ_LINIE std::endl
 
 #define W_LINII inline
 

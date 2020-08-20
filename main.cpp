@@ -9,14 +9,14 @@ LICZBA_CALKOWITA32 ZdobadzWynik(LICZBA_CALKOWITA32 Argument1, LICZBA_CALKOWITA32
 
 LICZBA_CALKOWITA32 main()
 {
-	POKAZ << "P O L S K A" << std::endl;
+	POKAZ << "P O L S K A" << ZAKONCZ_LINIE;
 
 	LICZBA_CALKOWITA32 Liczba1, Liczba2;
 
-	POKAZ << "Podaj pierwsza liczbe" << std::endl;
+	POKAZ << "Podaj pierwsza liczbe" << ZAKONCZ_LINIE;
 	WPROWADZ >> Liczba1;
 
-	POKAZ << "Podaj druga liczbe" << std::endl;
+	POKAZ << "Podaj druga liczbe" << ZAKONCZ_LINIE;
 	WPROWADZ >> Liczba2;
 
 	POKAZ << ZdobadzWynik(Liczba1, Liczba2);
