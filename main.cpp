@@ -21,5 +21,5 @@ LICZBA_CALKOWITA32 main()
 
 	POKAZ << ZdobadzWynik(Liczba1, Liczba2);
 
-	return 0;
+	ZWROC 0;
 }
