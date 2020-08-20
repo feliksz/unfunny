@@ -4,6 +4,11 @@
 #define JEZELI if
 #define ALBO else
 #define ZWROC return
+#define WYBOR switch
+
+#define WYBOR_WARTOSC case
+#define WYBOR_KONTYNUUJ continue
+#define WYBOR_ZATRZYMAJ break 
 
 #define POKAZ std::cout
 #define WPROWADZ std::cin
