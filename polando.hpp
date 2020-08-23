@@ -18,7 +18,11 @@
 #define W_LINII inline
 #define DEFINICJA_TYPU typedef
 
+#define STALY const
+#define STATYCZNY static
+
 #define PROZNIA void
+#define OPERATOR_LOGICZNY bool
 
 #define LICZBA_CALKOWITA8 signed char
 #define LICZBA_CALKOWITA16 short
