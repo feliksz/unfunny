@@ -1,7 +1,6 @@
 #pragma once
 #include <iostream>
 
-// TO-DO: dodac char(przetlumaczyc)
 #define ALBO else
 #define BEZ_ZNAKU unsigned
 #define DEFINICJA_TYPU typedef
@@ -38,4 +37,5 @@
 #define W_LINII inline
 #define ZAKONCZ_LINIE std::endl
 #define ZEWNETRZNE extern
+#define ZNAK char
 #define ZWROC return
